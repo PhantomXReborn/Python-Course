@@ -12,20 +12,20 @@ The course contains 14 core modules. Each module has 12 lessons. Every lesson in
 
 ## Core Modules (14 modules x 12 lessons)
 
-Module 1: Print Statements & Basic Output
-Module 2: Variables & Data Types
-Module 3: String Manipulation
-Module 4: Numeric Operations & Math
-Module 5: Conditional Statements (if/elif/else)
-Module 6: Loops (for and while)
-Module 7: Lists and Tuples
-Module 8: Dictionaries and Sets
-Module 9: Functions and Scope
-Module 10: Error Handling (try/except)
-Module 11: File Reading
-Module 12: File Writing and Appending
-Module 13: Recursion Basics
-Module 14: Advanced Recursion (tree traversal, backtracking)
+- Module 1: Print Statements & Basic Output
+- Module 2: Variables & Data Types
+- Module 3: String Manipulation
+- Module 4: Numeric Operations & Math
+- Module 5: Conditional Statements (if/elif/else)
+- Module 6: Loops (for and while)
+- Module 7: Lists and Tuples
+- Module 8: Dictionaries and Sets
+- Module 9: Functions and Scope
+- Module 10: Error Handling (try/except)
+- Module 11: File Reading
+- Module 12: File Writing and Appending
+- Module 13: Recursion Basics
+- Module 14: Advanced Recursion (tree traversal, backtracking)
 
 ## Capstone Project Modules (4 modules)
 
